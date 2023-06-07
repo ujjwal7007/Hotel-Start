@@ -1,1 +1,1 @@
-# Hotel-Start
+# hotel-starter
